@@ -3,20 +3,19 @@
 This is a Compilation of SQL, Tableau, data analysis related challanges and projects where I practice those skills.
 
 ## Built with:
-SQL Languages
+- SQL Languages
 
-- SQL
--  MySQL
-- PostgreSQL
-- SQLite
+  - SQL
+  -  MySQL
+  - PostgreSQL
+  - SQLite
 
-## Tools
+- Tools
+  - MySQL Workbench
+  - pgAdmin
+  - DB Browser for SQLite
 
-- MySQL Workbench
-- pgAdmin
-- DB Browser for SQLite
+- Python
 
-## Python
-
-- PyCharm
-- Jupyter notebook
+  - PyCharm
+  - Jupyter notebook
