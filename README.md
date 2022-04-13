@@ -5,18 +5,18 @@ This is a Compilation of SQL, Tableau, data analysis related challanges and proj
 ## Built with:
 SQL Languages
 
-1. SQL
-2. MySQL
-3. PostgreSQL
-4. SQLite
+- SQL
+-  MySQL
+- PostgreSQL
+- SQLite
 
 ## Tools
 
-1. MySQL Workbench
-2. pgAdmin
-3. DB Browser for SQLite
+- MySQL Workbench
+- pgAdmin
+- DB Browser for SQLite
 
 ## Python
 
-1. PyCharm
-2. Jupyter notebook
+- PyCharm
+- Jupyter notebook
