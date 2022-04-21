@@ -23,7 +23,7 @@ This is a Compilation of SQL, Tableau, data analysis related challenges and proj
 
 ## Projects & Challenges
 
-## [Instagram Clone Project](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/Insta_Clone_Project)
+#### [Instagram Clone Project](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/Insta_Clone_Project)
 
 MySQL project which is a cloned mimic version of Instagram database. It is used to perform data analysis for real world business related questions and scenarios such as
 
@@ -32,10 +32,7 @@ MySQL project which is a cloned mimic version of Instagram database. It is used 
   - encouraging inactive users to log in back to the system etc.
 
 
-## SQL 
+## Advancing SQL Journey
 
-### [SQL - 30 Questions](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/30_SQL_Queries)
-  - Challenges your knowledge with simple SQL questions
-
-### Advancing SQL Journey - (In Progress)
-  - [SQL for Statistics Essential Training](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/SQL_Statistical_Data_Analyis)
+#### [1. SQL - 30 Questions](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/30_SQL_Queries). 
+#### [2. SQL for Statistics Essential Training](https://github.com/MKSiddhu/SQL-Data-Analysis-and-Visualization-Projects/tree/main/SQL_Statistical_Data_Analyis)
